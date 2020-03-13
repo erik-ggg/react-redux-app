@@ -1,0 +1,28 @@
+{
+  "en": "English",
+  "es": "Spanish",
+  "api_get": "Update table",
+  "header": {
+    "title": "Employees Management",
+    "language_selector": {
+      "label": "Language"
+    }
+  },
+  "table": {
+    "title": "Employees",
+    "headers": {
+      "actions": "Actions",
+      "first_column": "First Name",
+      "second_column": "Last Name",
+      "third_column": "Email"
+    },
+    "actions": {
+      "add_tooltip": "Add",
+      "delete_tooltip": "Delete",
+      "edit_tooltip": "Edit",
+      "search_tooltip": "Search",
+      "search_placeholder": "Search"
+    }
+  },
+  "tableRowDisplayed": "rows"
+}

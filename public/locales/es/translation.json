@@ -1,0 +1,28 @@
+{
+  "en": "Inglés",
+  "es": "Español",
+  "api_get": "Actualizar",
+  "header": {
+    "title": "Administración de Empleados",
+    "language_selector": {
+      "label": "Idioma"
+    }
+  },
+  "table": {
+    "title": "Empleados",
+    "headers": {
+      "actions": "Acciones",
+      "first_column": "Nombre",
+      "second_column": "Apellidos",
+      "third_column": "Correo electrónico"
+    },
+    "actions": {
+      "add_tooltip": "Añadir",
+      "delete_tooltip": "Eliminar",
+      "edit_tooltip": "Editar",
+      "search_tooltip": "Búsqueda",
+      "search_placeholder": "Búsqueda"
+    }
+  },
+  "tableRowDisplayed": "filas"
+}
